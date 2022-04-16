@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+   font-size: 30px;
+}
+#colors{
+    color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 65px;
+}
+.blog-1{
+    width: 50%;
+    padding-left: 4.5%;
+    padding-bottom: 7.5%;
+}
+.blog-1 img{
+    width: 83%;
+}
+.degiyen{
+    color: blueviolet;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    padding: 10px 20px;
+    border-radius: 5.5px;
+    
+}
+.degiyen:hover{
+    background-color: darkslategrey;
+}
+.top-banner{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
